@@ -1,8 +1,6 @@
 welcome to git
 welcome to git for 2nd time
 welcome to git for 3rd time
-Wellcome to git for 4th time
-Welcome to git for 5th time
+
+
 welcome to git for 6th time
-welcome to git for 7th time
-welcome to git for 8th time
