@@ -12,7 +12,7 @@ Welcome to git for 11th time
 Welcome to git for 12th time
 Welcome to git for 13th time
 Welcome to git for 14th time
-Welcome from feature-1 branch
+Welcome from the feature-1 branch
 
 
 
