@@ -12,12 +12,8 @@ Welcome to git for 11th time
 Welcome to git for 12th time
 Welcome to git for 13th time
 Welcome to git for 14th time
-<<<<<<< HEAD
 Welcome from feature branch...
-=======
 Welcome from feature-1 branch...again
->>>>>>> feature-1
-
 New change
 Making a change from github...
 
