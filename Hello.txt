@@ -1,4 +1,4 @@
-welcome to git for 1st time....
+welcome to git for 1st time
 Welcome to git for 2nd time
 welcome to git for 3rd time
 welcome to git for 4rd time
@@ -12,8 +12,12 @@ Welcome to git for 11th time
 Welcome to git for 12th time
 Welcome to git for 13th time
 Welcome to git for 14th time
-Welcome from feature branch...
-Welcome from feature-1 branch...again
-New change
-Making a change from github...
+Welcome from feature-1 branch
+Welcome to feature-1 branch
+change made
+
+
+
+
+
 
